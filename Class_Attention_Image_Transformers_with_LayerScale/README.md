@@ -5,6 +5,8 @@
 
 ### Attention map of Class-Attention layer
 ![그림_2](img/img2.png)
+![그림_3](img/img3.png)
+![그림_4](img/img4.png)
 
 
 ### Reference
